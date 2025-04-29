@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨Ыtarted programming a while ago.<br>📚 I'm currently studying at 42 Heilbronn now.<br>🎯 Goal: I want to make my own rpg game</p>
+<p align="left">✨Started programming a while ago.<br>📚 I'm currently studying at 42 Heilbronn now.<br>🎯 Goal: I want to make my own rpg game</p>
 
 ###
 
