@@ -1,37 +1,48 @@
-# Hi, I'm Sasha 👋
+<h1 align="left">Hi 👋! My name is Sasha.</h1>
 
-### Junior Software Developer | Backend & Full-Stack
+###
 
-I'm a software engineering student at **42 Heilbronn, Germany**, building a strong foundation in C/C++ and developing web applications with JavaScript and TypeScript. I enjoy understanding how systems work beneath the surface—from HTTP servers and networking to interactive applications.
+<h2 align="left">About me</h2>
 
-I'm looking for a **Junior Software Developer** opportunity in Germany or internationally, with a focus on backend or full-stack development.
+###
 
-## Tech I work with
+<p align="left">✨Started programming a while ago.<br>📚 I'm currently studying at 42 Heilbronn now.<br>🎯 Goal: I want to make my own rpg game</p>
 
-- **Languages:** C, C++, JavaScript, TypeScript, SQL
-- **Web:** React, Node.js, Express
-- **Data:** PostgreSQL
-- **Tools & environment:** Git, Linux, Docker
+###
 
-**Currently learning:** Go
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuPuHe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuPuHe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## Selected projects
+###
 
-- **[webserv](https://github.com/SuPuHe/42webserv)** — A C++17 HTTP/1.1 server built as part of the 42 curriculum. It handles common HTTP methods and serves static files; networking is managed through a non-blocking `poll()` loop.
-- **[cub3D](https://github.com/SuPuHe/SuPuCub3D)** — A C raycasting engine inspired by classic 3D games, with map parsing, interactive doors, and a minimap.
-- **[42-Mochi](https://github.com/SuPuHe/42mochi)** — A collaborative project built with a team during a 48-hour hackathon at 42 Heilbronn. Our team won the event.
-- **OneShot — Payment Settlement Engine** — An ETHOnline 2026 prototype exploring persistent payment intents, a PostgreSQL ledger, and deterministic reconciliation.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-These are learning and hackathon projects, not commercial client work.
+###
 
-## Community
+<div align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=supuhedev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-I'm a **mentor and organizer with the Heilbronn Assistant Team (H.A.T.)**. I support learners during intensive 42 Piscines and help organize campus events.
+###
 
-## Get in touch
+<img align="left" height="200" src="https://i.pinimg.com/originals/71/0f/da/710fda642bedd21a8279e3c1899f11e8.gif"  />
 
-- [LinkedIn](https://www.linkedin.com/in/oleksandr-mizin-9903a73b2/)
-- [Email](mailto:supuhedev@gmail.com)
-- [GitHub repositories](https://github.com/SuPuHe?tab=repositories)
+###
 
-Feel free to reach out about junior software development roles, collaborative projects, or the work featured here.
+<img align="right" height="200" src="https://i.pinimg.com/originals/71/0f/da/710fda642bedd21a8279e3c1899f11e8.gif"  />
+
+###
