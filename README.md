@@ -30,7 +30,7 @@ I'm a **mentor and organizer with the Heilbronn Assistant Team (H.A.T.)**. I sup
 
 ## Get in touch
 
-- [LinkedIn](https://www.linkedin.com/in/)
+- [LinkedIn](https://www.linkedin.com/in/oleksandr-mizin-9903a73b2/)
 - [Email](mailto:supuhedev@gmail.com)
 - [GitHub repositories](https://github.com/SuPuHe?tab=repositories)
 
